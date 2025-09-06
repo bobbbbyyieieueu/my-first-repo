@@ -1,14 +1,13 @@
-# ignore OS/system trees and archives
+# keep only website files in this repo
 bin/
-dev/
 etc/
 lib/
 sbin/
 usr/
 var/
-opt/
-run/
-srv/
-tmp/
+# archives & images we don't want
+*.tar
 *.tar.gz
-*.tgz
+*.apk
+*.img
+*.iso
