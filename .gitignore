@@ -1,0 +1,14 @@
+# ignore OS/system trees and archives
+bin/
+dev/
+etc/
+lib/
+sbin/
+usr/
+var/
+opt/
+run/
+srv/
+tmp/
+*.tar.gz
+*.tgz
