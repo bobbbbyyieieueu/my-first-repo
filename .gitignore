@@ -1,13 +1,11 @@
-# keep only website files in this repo
-bin/
-etc/
-lib/
-sbin/
-usr/
-var/
-# archives & images we don't want
-*.tar
-*.tar.gz
-*.apk
-*.img
-*.iso
+/bin/
+/etc/
+/ish/
+/lib/
+/proc/
+/run/
+/sbin/
+/tmp/
+/usr/
+/var/
+/*.tar.gz
